@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "The Enchanted Forest",
+    "author": "Emily Johnson",
+    "author_image": "author_1.jpg",
+    "post_date": "2023-08-27",
+    "reading_time": "12",
+    "hashtag": "#fantasy #adventure"
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "Culinary Delights",
+    "author": "Michael Smith",
+    "author_image": "author_2.jpg",
+    "post_date": "2023-08-28",
+    "reading_time": "8",
+    "hashtag": "#cooking #recipes"
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "Beyond the Stars",
+    "author": "Jessica Williams",
+    "author_image": "author_3.jpg",
+    "post_date": "2023-08-29",
+    "reading_time": "15",
+    "hashtag": "#sciencefiction #space"
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "A Walk in the Park",
+    "author": "David Brown",
+    "author_image": "author_4.jpg",
+    "post_date": "2023-08-30",
+    "reading_time": "5",
+    "hashtag": "#nature #outdoors"
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "The Art of Painting",
+    "author": "Sophia Lee",
+    "author_image": "author_5.jpg",
+    "post_date": "2023-08-31",
+    "reading_time": "10",
+    "hashtag": "#art #creativity"
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "Thrills and Chills",
+    "author": "Benjamin Davis",
+    "author_image": "author_6.jpg",
+    "post_date": "2023-09-01",
+    "reading_time": "20",
+    "hashtag": "#horror #suspense"
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "Yoga for Wellness",
+    "author": "Amanda Green",
+    "author_image": "author_7.jpg",
+    "post_date": "2023-09-02",
+    "reading_time": "18",
+    "hashtag": "#health #wellness"
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "Financial Freedom",
+    "author": "Robert Johnson",
+    "author_image": "author_8.jpg",
+    "post_date": "2023-09-03",
+    "reading_time": "14",
+    "hashtag": "#finance #investment"
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "History Unearthed",
+    "author": "Elizabeth Turner",
+    "author_image": "author_9.jpg",
+    "post_date": "2023-09-04",
+    "reading_time": "22",
+    "hashtag": "#history #archaeology"
+  },
+  {
+    "id": 10,
+    "cover": "https://i.ibb.co/8YLPBYc/flat-lay-desk-concept-with-smartphone-template.jpg",
+    "title": "The Mindful Way",
+    "author": "Jason Kim",
+    "author_image": "author_10.jpg",
+    "post_date": "2023-09-05",
+    "reading_time": "16",
+    "hashtag": "#mindfulness #meditation"
+  }
+]
