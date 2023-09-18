@@ -1,4 +1,5 @@
 import "./App.css";
+import Blogs from "./components/Blogs/Blogs";
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
       <main>
         <nav className="text-center text-3xl font-semibold italic border-b-2  mb-12">
           {" "}
-          <h4>Ahad Saim Ui</h4>{" "}
+          <h4>Abdullah Al Kutub Ui</h4>
         </nav>
         <header>
           <div className="carousel w-full">
@@ -401,6 +402,17 @@ function App() {
               name="rating-3"
               className="mask mask-heart bg-green-400"
             />
+          </div>
+        </section>
+
+        <section className="flex items-center justify-center mb-8 gap-2">
+          <div className="mockup-phone border-primary">
+            <div className="camera"></div>
+            <div className="display">
+              <div className="artboard artboard-demo phone-1">
+                <img src="https://i.ibb.co/WKtBMRd/73619209.jpg" alt="" />
+              </div>
+            </div>
           </div>
         </section>
         <div className="flex items-center justify-center mb-8 gap-2"></div>
